@@ -1,6 +1,6 @@
 # Python SkillBuilder Summary
 
-# 📚 Table of Contents
+### 📚 Table of Contents
 
 - [SkillBuilder 1: The Power of Python](#skillbuilder-1-the-power-of-python)
 - [SkillBuilder 2: Logic, Lists & Loops](#skillbuilder-2-logic-lists--loops)
@@ -14,7 +14,7 @@
 
 
 
-# 🧠 **SkillBuilder 1: The Power of Python**
+# 🧠 SkillBuilder 1: The Power of Python
 
 Welcome to your first SkillBuilder! This section introduces foundational Python syntax — the building blocks you'll use again and again as you grow as a coder.
 
@@ -220,7 +220,7 @@ You’re building solid Python foundations! 🏗️
 
 ---
 
-# 🧠 **SkillBuilder 2: Logic, Lists & Loops**
+# 🧠 SkillBuilder 2: Logic, Lists & Loops
 
 This SkillBuilder dives into **logic, lists, loops, and boolean expressions** — the core building blocks that let Python make decisions and repeat tasks.
 
@@ -395,7 +395,7 @@ These tools let your code **think and repeat!** 🎉
 
 ---
 
-# 🧠 SkillBuilder 3: **Dictionaries and Conditional Logic**
+# 🧠 SkillBuilder 3: Dictionaries and Conditional Logic
 
 ## 📖 **Dictionaries**
 
@@ -607,7 +607,7 @@ print(words_with_a)  # Output: ['apple', 'banana', 'date']
 
 ---
 
-# 🧠 **SkillBuilder 4: Building on the Basics**
+# 🧠 SkillBuilder 4: Building on the Basics
 
 This SkillBuilder introduces **functions**, **while loops**, and the powerful **`zip()` function** — giving you tools to organize, repeat, and combine data in Python!
 
@@ -731,7 +731,7 @@ for name, age in zip(names, ages):
 
 ---
 
-# 🧠 **SkillBuilder 5: Introduction to Pandas**
+# 🧠 SkillBuilder 5: Introduction to Pandas
 
 This SkillBuilder introduces **pandas** — a powerful Python library for loading, exploring, and manipulating data for analysis or visualization.
 
@@ -883,7 +883,7 @@ df.agg({
 
 🎉 **Recap:** You’ve learned how to import pandas, read CSVs, preview your data, access columns/rows, and summarize your DataFrame. These are the first steps to becoming a data analyst with Python! 🚀
 
-# 🧠 **SkillBuilder 6: Pandas and Visualization**
+# 🧠 SkillBuilder 6: Pandas and Visualization
 
 This SkillBuilder introduces how to use **Plotly Express** with **pandas DataFrames** to create beautiful, interactive visualizations — no need to manually pass lists!
 
