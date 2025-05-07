@@ -2,12 +2,12 @@
 
 ### 📚 Table of Contents
 
-- [SkillBuilder 1: The Power of Python](#skillbuilder-1-the-power-of-python)
-- [SkillBuilder 2: Logic, Lists & Loops](#skillbuilder-2-logic-lists--loops)
-- [SkillBuilder 3: Dictionaries and Conditional Logic](#skillbuilder-3-dictionaries-and-conditional-logic)
-- [SkillBuilder 4: Building on the Basics](#skillbuilder-4-building-on-the-basics)
-- [SkillBuilder 5: Introduction to Pandas](#skillbuilder-5-introduction-to-pandas)
-- [SkillBuilder 6: Pandas and Visualization](#skillbuilder-6-pandas-and-visualization)
+- [SkillBuilder 1: The Power of Python](#-skillbuilder-1-the-power-of-python)
+- [SkillBuilder 2: Logic, Lists & Loops](#-skillbuilder-2-logic-lists--loops)
+- [SkillBuilder 3: Dictionaries and Conditional Logic](#-skillbuilder-3-dictionaries-and-conditional-logic)
+- [SkillBuilder 4: Building on the Basics](#-skillbuilder-4-building-on-the-basics)
+- [SkillBuilder 5: Introduction to Pandas](#-skillbuilder-5-introduction-to-pandas)
+- [SkillBuilder 6: Pandas and Visualization](#-skillbuilder-6-pandas-and-visualization)
 - [SkillBuilder 7: Pandas and Filtering Data](#skillbuilder-7-pandas-and-filtering-data)
 - [SkillBuilder 8: Cleaning and Summarizing Data](#skillbuilder-8-cleaning-and-summarizing-data)
 - [SkillBuilder 9: Pandas and Joining Data](#skillbuilder-9-pandas-and-joining-data)
